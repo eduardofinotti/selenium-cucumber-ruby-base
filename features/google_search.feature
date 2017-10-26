@@ -10,4 +10,4 @@ Feature: Google Search
   | search        |
   | fig rolls     |
   | giants        |
-  | san francisco |
+  | san francisco | 

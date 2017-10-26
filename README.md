@@ -29,7 +29,7 @@ Um exemplo rápido de como juntar Selenium, Cucumber e Ruby para automatizar tes
       7. Verificar se tem o  chromedriver instaldo
             brew install chromedriver
             
-      8. Iniciar bundle: bundle install
+      8. Iniciar bundle: bundle install 
       
       9. Run: cucumber (chrome como padrão) 
 
@@ -37,5 +37,7 @@ Um exemplo rápido de como juntar Selenium, Cucumber e Ruby para automatizar tes
 
 Executando o `cucumber`  será executado a feature no chome como default. Para executar o teste no firefox passe o argumento" `-p firefox`  e.g. `cucumber -p firefox`
 
-## Feedback
+## Feedback 
 Para dúvidas e sugestões, entre em contato: eduardo.finotti@hotmail.com
+
+Base: https://github.com/jonathanchrisp/selenium-cucumber-ruby-kickstarter
