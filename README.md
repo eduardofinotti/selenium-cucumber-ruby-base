@@ -39,3 +39,5 @@ Executando o `cucumber`  será executado a feature no chome como default. Para e
 
 ## Feedback
 Para dúvidas e sugestões, entre em contato: eduardo.finotti@hotmail.com
+
+Base: https://github.com/jonathanchrisp/selenium-cucumber-ruby-kickstarter
